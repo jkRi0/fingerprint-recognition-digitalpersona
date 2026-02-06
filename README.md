@@ -11,3 +11,6 @@ right click project > file > configure build path > java build path > modulepath
 add classpath:
 
 run confiuration > dependencies > classpath entries > select the project > add jar/external
+
+
+
