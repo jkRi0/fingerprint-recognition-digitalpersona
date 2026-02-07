@@ -1,0 +1,11 @@
+java.exe -classpath ".;C:\Program Files\DigitalPersona\U.are.U SDK\Windows\Lib\Java\dpuareu.jar" -Djava.library.path="C:\Program Files\DigitalPersona\U.are.U SDK\Windows\Lib\win32" UareUSampleJava
+
+
+
+adding library on eclipse:
+
+right click project > file > configure build path > java build path > modulepath > add jars/external
+
+add classpath:
+
+run confiuration > dependencies > classpath entries > select the project > add jar/external
